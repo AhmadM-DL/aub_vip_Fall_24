@@ -1,6 +1,9 @@
 ### AUB VIP Course Fall 2024
+
 Through out the VIP course we worked on several stuff. 
+
 The work is done using Google Colab.
+
 The files are as following:
 
 #### Implementing a Vission Transformer
